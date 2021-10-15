@@ -35,7 +35,11 @@ This protocol is designed to extract bromine related metabolites from aquatic sp
 The samples did not look pulverized after the first round of extraction on the CryoMill so I put them through again. The Red Dark sponge homogenized very well, but the Yellow NJ sponge did not. The other two species were somewhere in the middle. This was a concern because if not sufficiently pulverized the extraction solvent could just rehydrate the sponge and not give sufficient supernatent.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Sponge Test Homogenization]("\Pictures\Sponge Extraction Test 20211013.jpg")
+=======
+![Sponge Test Homogenization]("C:\Users\enchiles\Pictures\Sponge Extraction Test 20211013.jpg")
+>>>>>>> b32a8349d1fbfba39eea8f5e6e7ef7ef2975e260
 =======
 ![Sponge Test Homogenization]("C:\Users\enchiles\Pictures\Sponge Extraction Test 20211013.jpg")
 >>>>>>> b32a8349d1fbfba39eea8f5e6e7ef7ef2975e260
